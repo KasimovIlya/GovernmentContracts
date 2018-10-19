@@ -1,0 +1,7 @@
+<button onclick="button0">{}</button>
+<button onclick="button1">{}</button>
+<button onclick="button2">{}</button>
+
+<a href="button0"><button>{}</button></a>
+<a href="button1"><button>{}</button></a>
+<a href="button2"><button>{}</button></a>
